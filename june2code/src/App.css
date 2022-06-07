@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.counter-container{
+    display:flex;
+    gap:10px
+}
+.like-button,.dislike-button{
+    font-size:50px;
+}

@@ -1,0 +1,8 @@
+function dbl(){
+   return n*2
+}
+function useState(){
+    return[10,dbl]
+}
+//use state is a kind of function
+const[n,twoTimes]=useState()//destructuring
